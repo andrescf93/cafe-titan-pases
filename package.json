@@ -1,0 +1,13 @@
+{
+  "name": "cafe-titan-pases",
+  "version": "1.0.0",
+  "description": "Servidor de pases nativos para Wallet de Café Titán",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "passkit-generator": "^3.1.0"
+  }
+}
